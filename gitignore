@@ -1,0 +1,17 @@
+# Excel lock/temp files
+~$*.xlsx
+*.tmp
+
+# DBeaver workspace
+.dbeaver/
+.metadata/
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# SQLite journals (the .db itself IS tracked, on purpose — it lets a
+# reader open the finished database without running the import)
+*.db-journal
+*.db-wal
+*.db-shm
