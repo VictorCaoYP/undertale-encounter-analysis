@@ -1,0 +1,16 @@
+﻿item_id,name,type,at_bonus,df_bonus,area_found
+3,stick,weapon,0,0,Ruins
+13,toy_knife,weapon,3,0,Ruins
+14,tough_glove,weapon,5,0,Snowdin
+25,ballet_shoes,weapon,7,0,Waterfall
+45,torn_notebook,weapon,2,0,Waterfall
+47,burnt_pan,weapon,10,0,Hotland
+49,empty_gun,weapon,12,0,Hotland
+52,real_knife,weapon,99,0,New_home
+4,bandage,armor,0,0,Ruins
+12,faded_ribbon,armor,0,3,Ruins
+15,manly_bandanna,armor,0,7,Snowdin
+24,old_tutu,armor,0,10,Waterfall
+44,cloudy_glasses,armor,0,5,Waterfall
+48,cowboy_hat,armor,5,12,Hotland
+53,the_locket,armor,0,99,New_home

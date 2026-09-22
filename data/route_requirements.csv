@@ -1,0 +1,7 @@
+﻿area,area_order,kills_required,shares_counter_with,total_rooms,grind_rooms,argument3
+Ruins,1,20,,38,10,202
+Snowdin,2,16,,38,6,203
+Waterfall,3,18,,55,6,204
+Hotland,4,40,Core,40,3,205
+Core,5,0,Hotland,27,5,205
+New_home,6,1,,1,0,

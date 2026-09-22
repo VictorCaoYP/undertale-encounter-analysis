@@ -1,0 +1,31 @@
+﻿room_id,area,internal_room_name,encounter_object,base_steps,random_steps_max,first_base_steps,first_random_steps,alt_base_steps,alt_random_steps,alt_firstbase_steps,alt_firstrandom_steps,alt_condition,encounter_pool
+9,Ruins,ruins8,obj_encounter_ruins1,190,80,80,40,,,,,,random
+10,Ruins,ruins9,obj_encounter_ruins1,190,80,80,40,,,,,,random
+11,Ruins,ruins10,obj_encounter_ruins2,250,230,260,140,,,,,,random
+12,Ruins,ruins11,obj_encounterer_ruins3,290,100,60,60,,,,,,random
+16,Ruins,ruins13,obj_encounterer_ruins5,130,160,120,140,,,,,,random
+17,Ruins,ruins14,obj_encounterer_ruins6,140,210,140,120,,,,,,random
+18,Ruins,ruins15A,obj_encounterer_ruins5,130,160,120,140,,,,,,random
+19,Ruins,ruins15B,obj_encounterer_ruins4,120,100,90,100,,,,,,random
+20,Ruins,ruins15C,obj_encounterer_ruins4,120,100,90,100,,,,,,random
+21,Ruins,ruins15D,obj_encounterer_ruins4,120,100,90,100,,,,,,random
+3,Snowdin,tundra3,obj_encounterer_tundra1,140,280,120,30,,,,,,random
+5,Snowdin,tundra4,obj_encounterer_tundra1,140,280,120,30,,,,,,random
+7,Snowdin,tundra6,obj_encounterer_tundra1,140,280,120,30,,,,,,random
+13,Snowdin,tundra_snowpuzz,obj_encounterer_jerry,840,680,840,680,,,,,,Jerry
+20,Snowdin,tundra_iceexit_new,obj_encoutnerer_gyftrot,840,680,840,680,,,,,,Gyftrot
+23,Snowdin,tundra_dangerbridge,obj_encounterer_jerry,840,680,840,680,,,,,,Jerry
+7,Waterfall,water5,obj_encounterer_water1,340,380,360,30,,,,,,random
+9,Waterfall,water6,obj_encounterer_water1,340,380,360,30,1040,380,360,30,internal_room_name = water6,random
+16,Waterfall,water12,obj_encounterer_water1,340,380,360,30,,,,,,random
+45,Waterfall,water15,obj_encounterer_water2,640,380,360,30,120,50,60,20,all bosses killed and LV >= 10,random
+46,Waterfall,water16,obj_encounterer_water2,640,380,360,30,120,50,60,20,all bosses killed and LV >= 10,random
+48,Waterfall,water17,obj_encounterer_water2,640,380,360,30,120,50,60,20,all bosses killed and LV >= 10,random
+8,Hotland,fire5,obj_encount_fire1,340,380,220,30,1040,680,220,30,internal_room_name = fire5,random
+9,Hotland,fire6,obj_encount_fire1,340,380,220,30,,,,,,random
+23,Hotland,fire_walkandbranch,obj_encount_fire1,340,380,220,30,,,,,,random
+11,Core,fire_core_topleft,obj_encount_core1,340,380,240,50,70,120,240,50,LV >= 12,random
+13,Core,fire_core_topright,obj_encount_core1,340,380,240,50,70,120,240,50,LV >= 12,random
+15,Core,fire_core_bottomright,obj_encount_core1,340,380,240,50,70,120,240,50,LV >= 12,random
+16,Core,fire_core_center,obj_encount_core1,340,380,240,50,70,120,240,50,LV >= 12,random
+21,Core,fire_core_bridge,obj_encount_core1,340,380,240,50,70,120,240,50,LV >= 12,random
