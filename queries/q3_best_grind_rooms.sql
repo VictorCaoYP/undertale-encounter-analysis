@@ -14,7 +14,7 @@ SELECT
     encounter_pool,
     alt_applies,
     step_constant,
-    ROUND(MAX(cumulative_steps) AS total_steps,
+    ROUND(MAX(cumulative_steps)) AS total_steps,
     RANK() OVER (
         PARTITION BY argument3
         ORDER BY MAX(cumulative_steps)
