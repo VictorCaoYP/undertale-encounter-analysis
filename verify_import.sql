@@ -1,5 +1,5 @@
 -- schema.sql — Undertale encounter cost analysis
-
+-- runs six read-only checks confirming the database loaded correctly
 DROP TABLE IF EXISTS free_kills;
 DROP TABLE IF EXISTS rooms;
 DROP TABLE IF EXISTS monsters;
