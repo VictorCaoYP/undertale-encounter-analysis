@@ -10,7 +10,7 @@
 9,Loox,Normal,Ruins,50,6,5,6,4,13.5,farmable,0,
 10,Loox,First_Loox,Ruins,50,6,5,6,4,7,one-time,0,
 11,Toriel,Normal,Ruins,440,80,6,80,-9999,150,fixed,1,1
-12,Snowdrake,Normal,Snowdin,74,12,6,7,2,22,farmable,0,
+12,Snowdrake,Normal,Snowdin,74,12,6,7,2,22,fixed,0,
 13,Chilldrake,Normal,Snowdin,74,12,6,7,2,22,farmable,0,
 14,Ice_Cap,Normal,Snowdin,48,11,6,4,0,17,farmable,0,
 15,Ice_Cap,Ice,Snowdin,48,1,0,0,-100,25,farmable,0,
@@ -28,7 +28,7 @@
 27,Shyren,Normal,Waterfall,66,19,7,0,2,52,fixed,0,
 28,Glad_Dummy,Normal,Waterfall,5,0,0,0,-5,0,fixed,1,1
 29,Temmie,Normal,Waterfall,5,7,7,-20,-20,40,farmable,0,
-30,Moldbygg,Normal,Waterfall,70,18,7,18,4,46,fixed,0,
+30,Moldbygg,Normal,Waterfall,70,18,7,18,4,46,farmable,0,
 31,Monster_Kid,Normal,Waterfall,100,2,1,2,-900,,fixed,0,1
 32,Undyne_the_Undying,Normal,Waterfall,23000,99,12,99,5,15000,fixed,1,
 33,Vulkin,Normal,Hotland,20,25,8,0,-10,70,farmable,0,
