@@ -230,3 +230,8 @@ area. The player community's name for it carries meaning outside gaming that doe
 belong on a technical write-up, so this repository refers to it as the **No Mercy
 route** — also an in-game term — or as a combat completion route.
 
+## Sources
+https://undertale.fandom.com/wiki/Main_Page
+https://undertale.fandom.com/wiki/Category:Enemies
+https://undertale.fandom.com/wiki/Genocide_Route
+https://underminersteam.github.io/
